@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510286580905",
+    "project_id": "foody-card-24",
+    "storage_bucket": "foody-card-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510286580905:android:0c078a07272c0b988aadb8",
+        "android_client_info": {
+          "package_name": "com.foodcard.foodcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsNVd6wtazt4_86YuBVWEwgF3TnJQDk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
